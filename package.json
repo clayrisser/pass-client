@@ -1,6 +1,6 @@
 {
   "name": "pass-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs client for the standard unix password manager",
   "sideEffects": false,
   "keywords": [

@@ -4,7 +4,7 @@
  * File Created: 05-07-2021 14:11:03
  * Author: Clay Risser <email@clayrisser.com>
  * -----
- * Last Modified: 05-07-2021 15:29:01
+ * Last Modified: 05-07-2021 16:06:29
  * Modified By: Clay Risser <email@clayrisser.com>
  * -----
  * Silicon Hills LLC (c) Copyright 2021
@@ -28,4 +28,5 @@ import Pass from './pass';
 export { NativeMessage, Pass };
 
 export * from './nativeMessage';
+export * from './pass';
 export * from './types';
