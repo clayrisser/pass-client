@@ -2,6 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/clayrisser/pass-client.svg?style=social&label=Stars)](https://github.com/clayrisser/pass-client)
 
+![](assets/pass-client.png)
+
 > nodejs client for the standard unix password manager
 
 Please ★ this repo if you found it useful ★ ★ ★
